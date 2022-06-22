@@ -1,0 +1,23 @@
+.status {
+    width: 10px;
+    height: 10px;
+    display: block;
+    border-radius: 50px;
+    margin-right: 5px;
+}
+.list {
+    width: 15%;
+    margin: 40px auto;
+}
+.item {
+    display: flex;
+    align-items: center;
+    background-color: #ece8e4;
+    margin-bottom: 7px;
+    padding: 10px 10px;
+}
+
+.name {
+    margin-left: 10px;
+    font-weight: 500;
+}

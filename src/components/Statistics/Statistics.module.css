@@ -1,0 +1,27 @@
+.statList {
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 0;
+    height: 80px;
+}
+
+.statItem {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(210 176 176);
+    width: 19%;
+}
+
+.statLabel {
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+.statPerc {
+    text-align: center;
+    margin-top: 15px;
+    font-weight: 500;
+}

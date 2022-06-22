@@ -1,0 +1,15 @@
+.table {
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(160 194 196);
+    border-radius: 15px;
+    padding: 15px 25px;
+}
+
+.listTable {
+    background: #f5f5f5c2;
+}
+
+.itemTable {
+    text-align: center;
+}
