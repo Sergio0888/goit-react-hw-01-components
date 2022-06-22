@@ -19,9 +19,10 @@
     flex-direction: column;
 
     background-color: white;
-    border-radius: 5px;
-
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
+
 .name {
     font-size: 30px;
     font-weight: 700;
