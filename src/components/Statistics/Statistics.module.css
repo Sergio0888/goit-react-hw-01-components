@@ -12,6 +12,7 @@
     flex-direction: column;
     background-color: rgb(210 176 176);
     width: 19%;
+    border-radius: 5px;
 }
 
 .statLabel {
